@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">fcamachocervantes_A1</string>
+    <string name="calculate_value_label">Calculate!</string>
+    <string name="total_pizzas_label">Total Pizzas Needed:</string>
+    <string name="total_cost_label">Total Cost:</string>
+    <string name="chosen_pizza_label">Pizza</string>
+    <string name="how_hungry_label">How hungry is everyone?</string>
+    <string name="number_of_people_label">Number of People?</string>
+    <string name="smallest_hunger_label">Light</string>
+    <string name="medium_hunger_label">Medium</string>
+    <string name="largest_hunger_label">Ravenous</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TempConverter</string>
+
+    <string name="sunrise_image_description">Image of sunrise over ocean</string>
+    <string name="enter_temp_label">Enter a temperature in Celsius</string>
+    <string name="convert_temp_label">Convert to Fahrenheit</string>
+    <string name="c_to_f_formatted_label">%1$.1f\u2103 is %2$.2f\u2109</string>
+    <string name="message_invalid_input">Please enter a valid temperature.</string>
+</resources>
